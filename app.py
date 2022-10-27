@@ -28,7 +28,7 @@ df1 = pd.read_csv('./Datasets/precios_semana_20200413.csv', delimiter=',', encod
 df2 = pd.read_csv('./Datasets/precios_semana_20200518.txt', delimiter='|')
 df3 = pd.read_json('./Datasets/precios_semana_20200503.json')
 df4 = pd.read_excel('./Datasets/precios_semanas_20200419_20200426.xlsx')
-df = pd.read_csv('./Datasets/sucursal.csv')
+df_sucursal = pd.read_csv('./Datasets/sucursal.csv')
 df_producto = pd.read_parquet('./Datasets/producto.parquet')
 
 
