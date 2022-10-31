@@ -19,4 +19,4 @@ Este proyecto tiene como fin establecer un flujo de trabajo para la extraccion, 
  - Se armaran 2 scripts de carga inicial e incremetal, y un archivo que contenga las funciones para limpiar ciertas columnas antes de cargar las tablas a la base de datos
  - Asimismo se haran pruebas de los resultados en la base de datos mediante la ejecucion de querys en SQLite que se podran ver en este [video](https://youtu.be/0mQ6EtkfoIM)
 
-- ![image](./img/ETL.png)
+- [![image](./img/ETL.png)](https://youtu.be/0mQ6EtkfoIM)
